@@ -1,9 +1,11 @@
 ### Hi there 👋
 
+🌱 I’m currently learning 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://kangsu-2ji.tistory.com/)](https://kangsu-2ji.tistory.com/)
-[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/astnwl321)](https://www.facebook.com/astnwl321)
+
+📫 How to reach me 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:astnwl321@gmail.com)](mailto:astnwl321@gmail.com)
-	
+
 	
 
 <!--
