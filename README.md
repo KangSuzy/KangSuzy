@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Soo%Ji%20Kang&fontSize=75&fontColor=ffffff)
 
 <h3 align='center'><samp><strong>What we think, We become </strong>✨</samp></h3> 
-<p align='center'> <samp>Majored in IT Media Engineering <br> Expected to graduate in Feb 2022. Want to be Backend Developer <br>Questions are always welcome !
+<p align='center'> <samp>Majored in IT Media Engineering <br> Graduated in February 2022. Want to be Backend Developer <br>Questions are always welcome !
 Contact me at the email below</samp></p>
 
 <p align="center">
