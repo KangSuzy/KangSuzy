@@ -23,11 +23,10 @@ Contact me at the email below</samp></p>
   <br>
 </p>
 
-<p align="center"><samp><strong>🚗 Tech Blog & SNS </strong> : to record my life and studies </samp></p>
+<p align="center"><samp><strong>🚗 Tech Blog</strong> : to record my life and studies </samp></p>
 
 <p align="center">
   <a href="https://kangsu-2ji.tistory.com/"><img src="http://img.shields.io/badge/-Blog-brightgreen?style=flat-square&logo=FF5722&link=https://kangsu-2ji.tistory.com/" /></a>&nbsp 
-  <a href="mailto:astnwl321@gmail.com"><img src=https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/kangsu_2ji/" /></a>&nbsp 
 </p>
 
 <!-- 
